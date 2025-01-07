@@ -10,7 +10,7 @@ import Link from 'next/link';
 import { Button } from "@/components/ui/button";
 
 export const metadata: Metadata = {
-  title: 'CryptoVault - Advanced Secret Generator for Next.js',
+  title: 'CryptoVault - Advanced Secret Generator',
   description: 'Generate secure, random secrets, passwords, and encryption keys for your Next.js applications with CryptoVault. Features multiple cryptographic functions and an easy-to-use interface.',
   keywords: 'Next.js, cryptography, secret generator, password generator, encryption key, web security, CryptoJS',
   openGraph: {
