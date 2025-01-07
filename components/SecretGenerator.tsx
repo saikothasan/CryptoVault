@@ -6,7 +6,7 @@ import { Input } from '@/components/ui/input';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { Slider } from '@/components/ui/slider';
-import { toast } from '@/components/ui/use-toast';
+import { toast } from '@/hooks/use-toast';
 import { Copy, RefreshCw, Lock, Eye, EyeOff } from 'lucide-react';
 import { PasswordStrength } from './PasswordStrength';
 
